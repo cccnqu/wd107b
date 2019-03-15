@@ -1,0 +1,15 @@
+button {
+  background-color:#000000;
+  color: #ffffff;
+  padding: 20px;
+  font-size: 20px;
+  margin: 10px;
+  border: 1px solid black;
+  border-radius: 3px;
+}
+#b1 { background-color: #00ffff; }
+#b3 { background-color: #ff00ff; }
+button.even {
+  background-color: #ffff00;
+  color: blue;
+}
