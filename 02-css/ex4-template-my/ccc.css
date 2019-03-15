@@ -1,0 +1,36 @@
+button {
+  background-color:#000000;
+  color: #ffffff;
+  padding: 20px;
+  font-size: 20px;
+  margin: 10px;
+  border: 1px solid black;
+  border-radius: 3px;
+}
+#b1 { background-color: #00ffff; }
+#b3 { background-color: #ff00ff; }
+button.even {
+  background-color: #ffff00;
+  color: blue;
+}
+
+table {
+  min-width: 500px;
+}
+
+th {
+  background-color: black;
+  color: white;
+}
+
+input {
+  margin: 10px;
+  padding: 10px;
+  width: 20em;
+}
+
+td, p, th, body {
+  font-size: 24px;
+  /* font-family: 標楷體; */
+}
+

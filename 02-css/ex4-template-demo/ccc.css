@@ -7,3 +7,15 @@ button {
   border: 1px solid black;
   border-radius: 3px;
 }
+
+.center {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+}
+.box {
+  border: 3px solid #73AD21;
+}
+table { width: 800px; }
+td {  }
+.wide { width: 300px; }
