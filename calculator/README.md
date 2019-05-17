@@ -1,5 +1,7 @@
 # 計算機
 
+線上使用： https://cccnqu.github.io/wd107b/calculator/calculator.html
+
 ## 說明
 
 1. 簡易的文字型計算機
